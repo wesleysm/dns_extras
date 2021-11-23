@@ -90,3 +90,7 @@
 0.0.0.0 dot.seby.io
 0.0.0.0 doh-2.seby.io
 0.0.0.0 doh.dnslify.com
+0.0.0.0 tiarap.org
+0.0.0.0 doh.us.dnswarden.com
+0.0.0.0 doh.eu.dnswarden.com
+0.0.0.0 unicast.uncensoreddns.org
